@@ -1,0 +1,8 @@
+.idea
+bin
+obj
+packages
+Directory.Build.targets
+no_mods_message.lnk
+Folder.DotSettings.user
+build

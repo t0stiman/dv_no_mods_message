@@ -1,0 +1,9 @@
+{
+	"Id": "no_mods_message",
+	"Version": "0.0.1",
+	"DisplayName": "no_mods_message",
+	"Author": "Tostiman",
+	"EntryMethod": "no_mods_message.Main.Load",
+	"AssemblyName": "no_mods_message.dll",
+	"HomePage": "https://www.tostiman.com"
+}
